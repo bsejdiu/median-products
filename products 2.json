@@ -1,0 +1,14 @@
+{
+  "products": [
+    {
+      "id": "com.premium.monthly",
+      "type": "auto_renewable_subscription",
+      "title": "Premium Monthly"
+    },
+    {
+      "id": "com.premium.lifetime",
+      "type": "non_consumable",
+      "title": "Premium Lifetime"
+    }
+  ]
+}
